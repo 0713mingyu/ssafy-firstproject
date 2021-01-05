@@ -13,7 +13,7 @@
     "@coreui/utils": "^1.0.0",
     "@coreui/vue": "^3.0.0-beta.4",
     "@coreui/vue-chartjs": "^1.0.2",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-js": "^3.4.4",
     "vue": "^2.6.10",
     "vue-carousel": "^0.18.0",
